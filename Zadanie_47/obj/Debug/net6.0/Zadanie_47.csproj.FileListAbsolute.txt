@@ -1,0 +1,15 @@
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\bin\Debug\net6.0\Zadanie_47.exe
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\bin\Debug\net6.0\Zadanie_47.deps.json
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\bin\Debug\net6.0\Zadanie_47.runtimeconfig.json
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\bin\Debug\net6.0\Zadanie_47.dll
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\bin\Debug\net6.0\Zadanie_47.pdb
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\obj\Debug\net6.0\Zadanie_47.csproj.AssemblyReference.cache
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\obj\Debug\net6.0\Zadanie_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\obj\Debug\net6.0\Zadanie_47.AssemblyInfoInputs.cache
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\obj\Debug\net6.0\Zadanie_47.AssemblyInfo.cs
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\obj\Debug\net6.0\Zadanie_47.csproj.CoreCompileInputs.cache
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\obj\Debug\net6.0\Zadanie_47.dll
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\obj\Debug\net6.0\refint\Zadanie_47.dll
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\obj\Debug\net6.0\Zadanie_47.pdb
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\obj\Debug\net6.0\Zadanie_47.genruntimeconfig.cache
+C:\Users\Nina\OneDrive\Рабочий стол\Seminar7_C_sharp\Zadanie_47\obj\Debug\net6.0\ref\Zadanie_47.dll
